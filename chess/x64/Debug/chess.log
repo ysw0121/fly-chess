@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\chess\main.cpp(315,2): warning C4102: “loop2”: 未引用的标签
+D:\chess\main.cpp(112,9): warning C4101: “squ”: 未引用的局部变量
+D:\chess\image.h(123): warning C4715: “die”: 不是所有的控件路径都返回值
+  chess.vcxproj -> D:\chess\x64\Debug\chess.exe

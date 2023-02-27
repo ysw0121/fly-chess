@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\chess\main.cpp(315,2): warning C4102: “loop2”: 未引用的标签
+D:\chess\main.cpp(112,9): warning C4101: “squ”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+D:\chess\image.h(123): warning C4715: “die”: 不是所有的控件路径都返回值
+  All 22 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  chess.vcxproj -> D:\chess\x64\Release\chess.exe
